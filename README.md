@@ -1,4 +1,4 @@
-# SF\_RxJava
+# Custom_RxJava
 
 ## Описание проекта
 
